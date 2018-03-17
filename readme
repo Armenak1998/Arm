@@ -1,0 +1,10 @@
+#include<iostream>
+
+usin namespace std;
+
+int main(){
+
+cout<<"bla bla"<<"\n";
+
+return 0;
+}
